@@ -1,22 +1,75 @@
-<h1 align="center">Hi 👋, I'm Heer Chotaliya</h1>
-<h3 align="center">Exploring the Story Behind Every Dataset</h3>
+   #      <h1 align="center">Hello, I'm Heerr 🤍</h1> 
+<img alt="Profile-Image" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" height="400">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heerr2005" alt="heerr2005" /></a> </p>
+<br/>
+<br/>
 
-- 📫 How to reach me **heechotaliya78@gmail.com**
 
-- ⚡ Fun fact **I believe coffee is just a data preprocessing tool.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/heerchotaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heerchotaliya" height="30" width="40" /></a>
-</p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022.png" alt="PowerBI" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heerr2005&show_icons=true&locale=en&layout=compact" alt="heerr2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heerr2005&show_icons=true&locale=en" alt="heerr2005" /></p>
+I am Data Analyst.who loves turning raw data into clear insights and meaningful stories.
+- ⚡ Fun fact ⚡ -
+     - I am open for collaborations and projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heerr2005&" alt="heerr2005" /></p>
+<br/>
+<br/>
+
+<hr>
+
+<br/>
+ 
+###    :thought_balloon:  Social Links  :thought_balloon:
+
+<!---<a href="https://vinita2000.github.io/Vinita-s-Portfolio/" target="_blank"><img align="left" alt="portfolio" width="40px" height="40px" src="https://github.com/vinita2000/profile/blob/master/git-img/profile.png" /></a> --->
+
+<a href="https://www.linkedin.com/in/heerchotaliya/" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/linkedIn.png" /></a>
+<a href="mailto:heerchotaliya78@gmail.com" target="_blank"><img align="left" alt="portfolio" width="35px" height="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/email.png" /></a>
+
+
+<br/>
+<br/>
+<br/>
+
+<hr>
+
+<br/>
+
+### Languages and Tools:
+
+<a href="https://www.w3schools.com/sql/sql_quickref.asp" target="_blank"><img align="left" alt="SQL" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/SQL.png" /></a>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/python.png" /></a>
+<a href="https://www.w3schools.com/EXCEL/index.php" target="_blank"><img align="left" alt="Excel" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/Excel.png" /></a>
+<a href="https://www.qlik.com/us/etl" target="_blank"><img align="left" alt="Data Analysis" width="35px" height="35px"  src="https://github.com/vinita2000/profile/blob/master/git-img/Data analysis.jpg" /></a>
+<a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank"><img align="left" alt="Power BI" width="45px" height="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/PowerBI.jpg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="Javascript" width="45px"  src="https://github.com/vinita2000/profile/blob/master/git-img/javascript.png" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS" width="35px" src="https://github.com/vinita2000/profile/blob/master/git-img/css.png" /></a>
+
+<br/>
+<br/>
+<br/>
+
+<hr>
+
+<br/>
+
+![Heerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=heerr2005&include_all_commits=true&count_private=true&show_icons=true&theme=vue)
+
+<br />
+
+<hr>
+
+<br />
+
+
+[![Heerr's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=heerr2005&show_icons=true&locale=en&layout=compact)](https://github.com/heerr2005)
+
+<hr>
+
+
+<br/>
+
