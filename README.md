@@ -1,7 +1,8 @@
    #      <h1 align="center">Hello, I'm Heerr 🤍</h1> 
 <img alt="Profile-Image" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" height="400">
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Engineer;Building+AI-Powered+Solutions;Open-Source+Enthusiast+%26+Contributor;Minimal+APIs+%7C+Scalable+Architectures" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Engineer;Data+Analyst;Building+AI-Powered+Solutions;Open-Source+Enthusiast+%26+Contributor;Minimal+APIs+%7C+Scalable+Architectures" alt="Typing SVG" />
 </p>
 
 <br/>
